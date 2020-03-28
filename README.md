@@ -101,7 +101,7 @@ If the selected name can't be found in the registry, it will be substituted usin
 Notes:
 
 - The 'All files' type is not present by default if you specify your own masks. You can add it again by specifying it.
-- Users can always override your selection by typing *.* as name. This is a feature of Windows and not this application.
+- Users can always override your selection by typing `*.*` as name. This is a feature of Windows and not this application.
 - It's common but not required that you show the file masks in the name.
 - You can use masks to limit users to a single file name
 
